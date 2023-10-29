@@ -1,6 +1,6 @@
 # Code clause Project 2 "RESUME BUILDER"
 
-live link : https://arahman24.github.io/CCp2/
+live link : https://arahman24.github.io/CCp2--Resume-Builder/
 
 
 ![ou1](https://github.com/ARahman24/CCp2/assets/117717123/0e3d1ead-5191-4cbf-8aef-888e717f1262)
